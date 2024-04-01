@@ -5,4 +5,5 @@
 - [Vue](https://github.com/es2025-s17-hu/vue-app)
 - [Vue with TypeScript](https://github.com/es2025-s17-hu/vue-ts-app)
 - [Laravel](https://github.com/es2025-s17-hu/laravel-app)
+- [Node App](https://github.com/es2025-s17-hu/node-app)
  
