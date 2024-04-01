@@ -1,1 +1,1 @@
-# es2025-s17-hu-r2-info
+# Infromation for EuroSkills Herning 2025 Web Development Hungarian National Competition - Round 2
