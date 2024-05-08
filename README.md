@@ -6,5 +6,5 @@
 - [Vue with TypeScript](https://github.com/es2025-s17-hu/vue-ts-app)
 - [Laravel](https://github.com/es2025-s17-hu/laravel-app)
 - [Node App](https://github.com/es2025-s17-hu/node-app)
-- [R3 speed test (private)](https://github.com/es2025-s17-hu/module-a-speedtest-template)
+- [R3 speed test](https://github.com/es2025-s17-hu/module-a-speedtest-template)
  
